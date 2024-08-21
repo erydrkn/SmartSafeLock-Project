@@ -26,6 +26,7 @@ SD Card Module: Used to log all actions performed on the safe.
 Icons: Custom icons like locked, unlocked, and arrow symbols displayed on the LCD.
 
 
+
 Features
 
 Locking and Unlocking Mechanism: Controlled by a servo motor.
@@ -41,6 +42,7 @@ Alarm System: Triggers a buzzer alarm after incorrect code entries or when motio
 User-Friendly Interface: Simple to use with an LCD display and keypad.
 
 
+
 Setup and Usage
 
 Connect the Arduino Uno to your computer and open the Arduino IDE.
@@ -54,6 +56,7 @@ Set your password via the LCD display to activate the lock.
 The alarm system will automatically activate if the safe is moved.
 
 All actions performed will be logged on the SD card.
+
 
 
 License
