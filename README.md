@@ -46,17 +46,17 @@ User-Friendly Interface: Simple to use with an LCD display and keypad.
 
 Setup and Usage:
 
-Connect the Arduino Uno to your computer and open the Arduino IDE.
+-Connect the Arduino Uno to your computer and open the Arduino IDE.
 
-Upload the project code to the Arduino.
+-Upload the project code to the Arduino.
 
-Connect the system to a power source.
+-Connect the system to a power source.
 
-Set your password via the LCD display to activate the lock.
+-Set your password via the LCD display to activate the lock.
 
-The alarm system will automatically activate if the safe is moved.
+-The alarm system will automatically activate if the safe is moved.
 
-All actions performed will be logged on the SD card.
+-All actions performed will be logged on the SD card.
 
 
 
