@@ -5,6 +5,7 @@ Introduction
 SmartSafeLock is an intelligent safe project designed to enhance user security. This project offers a security system that locks and unlocks with a user-defined password. By integrating an LCD display, keypad, RGB LED, buzzer, MPU6050 motion sensor, and an SD card module, the safe can detect motion, trigger alarms, and log all transactions. With its user-friendly interface and security measures, it ensures that your valuable items are securely stored at home or in the workplace.
 
 Components Used
+
 Arduino Uno: Serves as the central control unit for the project.
 Servo Motor (SG90): Controls the locking and unlocking mechanism.
 MPU6050 Motion Sensor: Triggers the alarm if any movement is detected on the safe.
